@@ -24,3 +24,11 @@ high-priority risks and required mitigation actions.
   - Medium
   - High
   - Critical
+
+## 📊 Excel Features Used
+- Risk register table structure
+- Automated risk scoring formulas
+- Risk level classification logic
+- Control effectiveness evaluation
+- Residual risk assessment
+- Risk summary and prioritization
