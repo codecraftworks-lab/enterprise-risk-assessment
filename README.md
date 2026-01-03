@@ -1,2 +1,6 @@
-# enterprise-risk-assessment
-Enterprise risk assessment developed in Excel to identify, evaluate, and prioritize operational and compliance risks using likelihood–impact scoring, risk level classification, control effectiveness evaluation, and mitigation planning.
+# Enterprise Risk Assessment – Excel Portfolio
+
+## 📌 Overview
+This repository contains an Enterprise Risk Assessment developed using Microsoft Excel.
+The assessment is designed to identify, evaluate, and prioritize enterprise-level risks
+through a structured risk register and risk scoring model.
