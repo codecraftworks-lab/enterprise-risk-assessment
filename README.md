@@ -38,3 +38,8 @@ high-priority risks and required mitigation actions.
 - Some existing controls are not fully effective
 - Mitigation actions are required to reduce residual risk
 - Risk prioritization helps focus resources on critical issues
+
+## 🛠 Tools
+- Microsoft Excel
+- Semi-quantitative risk analysis
+- ISO 31000 & COSO ERM reference
