@@ -10,3 +10,17 @@ The risk assessment covers:
 - Operational risks
 - Compliance and governance risks
 - Process control risks
+
+The objective is to support management decision-making by highlighting
+high-priority risks and required mitigation actions.
+
+## 🧮 Risk Assessment Method
+- Likelihood scored on a scale of 1–5
+- Impact scored on a scale of 1–5
+- Risk Score calculated as:
+  `Risk Score = Likelihood × Impact`
+- Risk Level classified into:
+  - Low
+  - Medium
+  - High
+  - Critical
