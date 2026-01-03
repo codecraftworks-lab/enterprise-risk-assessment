@@ -32,3 +32,9 @@ high-priority risks and required mitigation actions.
 - Control effectiveness evaluation
 - Residual risk assessment
 - Risk summary and prioritization
+
+## 🔍 Key Insights
+- Several risks fall into High and Critical categories
+- Some existing controls are not fully effective
+- Mitigation actions are required to reduce residual risk
+- Risk prioritization helps focus resources on critical issues
